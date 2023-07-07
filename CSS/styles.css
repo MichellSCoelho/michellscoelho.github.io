@@ -55,6 +55,10 @@ padding: 50px;
     margin-bottom: 20px;
 }
 
+#bio-container #welcome-text {
+    font-weight: bold;
+}
+
 #bio-image {
 width: 175px;
 height: 175px;
@@ -154,7 +158,7 @@ margin-bottom: 25px;
 #skills-box {
     flex: 1 1 33%;
     max-width: 33%;
-    margin-bottom: 25px;
+    margin-bottom: 35px;
 }
 .skills-title {
     font-size: 24px;
