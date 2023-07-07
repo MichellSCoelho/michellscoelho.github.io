@@ -163,7 +163,7 @@ margin-bottom: 25px;
 .skills-title {
     font-size: 24px;
     margin-bottom: 25px;
-    font-weight: 10px;
+    font-weight: bold;
     padding-left: 10px;
     border-left: 5px solid var(--main-color);
 }
